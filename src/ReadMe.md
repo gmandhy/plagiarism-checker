@@ -1,6 +1,6 @@
-# Plagiarism Checker (Java, JavaFX, NLP)
+# Similarity Report Generator (Java, JavaFX, NLP)
 
-This project implements a multi-stage plagiarism detection system using Natural Language Processing (NLP) techniques. It provides both a command-line interface (CLI) and a JavaFX graphical application. The checker analyzes two documents using semantic and lexical similarity methods and produces a detailed HTML report including matched phrases and a semantic heatmap.
+This project implements a plagiarism detection system using Natural Language Processing (NLP) techniques. It provides both a command-line interface (CLI) and a JavaFX graphical application. The checker analyzes two documents using semantic and lexical similarity methods and produces a detailed HTML report including matched phrases and a semantic heatmap.
 
 ---
 
