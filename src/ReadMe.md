@@ -79,7 +79,6 @@ Although limited to text input for now, the internal architecture of the system 
 
 If run properly, the output should look something like this:
 
-![Report Screenshot](src/img.png)
+![Report Screenshot](images/img.png)
 
-
-
+---
